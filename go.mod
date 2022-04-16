@@ -2,7 +2,7 @@ module github.com/johnmccabe/vuln-dep-golang
 
 go 1.18
 
-require github.com/gin-gonic/gin v1.6.2
+require github.com/gin-gonic/gin v1.6.3
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
